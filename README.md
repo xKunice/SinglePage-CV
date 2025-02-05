@@ -1,1 +1,1 @@
-# SinglePage-CV
+https://xkunice.github.io/SinglePage-CV/
